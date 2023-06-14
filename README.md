@@ -1,16 +1,25 @@
-### Hi there 👋
+#  Hi, I'm Kien! 👋
+My name is Phạm Trí Kiên or shortly call me Keane.
+## 🚀 About Me
 
-<!--
-**KienPham899/KienPham899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Date of birth: 8th of Sep, 1999
 
-Here are some ideas to get you started:
+🔭 University Major : Engineering of Automobile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Current work : Software Engineer
+## 📫 How to reach me
+
+Email: kienpham.automobile@gmail.com
+
+Facebook: https://www.facebook.com/p.trikien
+
+Phone number: 0967751867
+
+## 🛠 Skill set
+*   Able to use SQL (using MySQL).
+
+*   Familier and current using python for my work.
+
+*   Able to use Scripting command(Batch Script, Shell Script).
+
+*   Comfortable using English in daily work and communication.
