@@ -16,7 +16,7 @@ Facebook: https://www.facebook.com/p.trikien
 Phone number: 0967751867
 
 ## 🛠 Skill set
-*   Able to use SQL (using MySQL).
+*   Able to use SQL (using SQL SSMS).
 
 *   Familier and current using python for my work.
 
